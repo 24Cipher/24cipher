@@ -1,6 +1,6 @@
 # Hey! Great to see you here! <img src="/src/wave.gif" width="30px" height="30px">
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a> 
+<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.png"></a> 
 
 * 📖 B.TECH CSE Final year student at Geetanjali Institute of Technical Studies, Udaipur 
 
