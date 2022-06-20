@@ -87,6 +87,19 @@ Feel free to connect with me here:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+---
+
+
+<h3><b><samp>🧑🏻‍💻 Experiences : </samp></b></h3>
+
+- Flutter Development Intern @ Appyhigh Technology, Hyderabad (JAN 2022 - Present)<br>
+- Software Development Intern @ Sanskrut Corporation, Udaipur (JUN 2020 - DEC 2021)<br>
+- Mentor at Sanskrut Corporation, Udaipur<br>
+- Freelancer, build Whatsapp-Omegele Clone with Flutter, WEBRTC, SOCKET.io, NODE.js<br>
+- Hackathon project @ college, [Sound-Converge](https://github.com/cscipher/sound-converge)<br>
+- SIH project @ college with <b>Team Acute LogisticX</b> [Smart Monitoring Unit](https://github.com/cscipher/sih_tal)<br>
+
+
 <!-- 
 <p align="center">
    <img src="https://github.com/cscipher/cscipher/blob/output/github-contribution-grid-snake.svg" alt="snake">
