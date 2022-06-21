@@ -14,7 +14,7 @@ Feel free to connect with me here:
 	<a href="https://www.linkedin.com/in/cscipher/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  	<a href="https://www.instagram.com/exactly.harsh/">
+  	<a href="https://www.instagram.com/cscipher/">
 		<img src="https://img.shields.io/badge/Instagram-f81894?style=for-the-badge&logo=Instagram&logoColor=white" />
 	</a>
 <!-- 	<a href="https://twitter.com/Asmit_2952">
@@ -29,7 +29,7 @@ Feel free to connect with me here:
 	<a href="https://asmit.bio.link/">
 		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
 	</a> -->
-        <a href="mailto:asmitbm2952002@gmail.com">
+        <a href="mailto:harsh.here17@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
