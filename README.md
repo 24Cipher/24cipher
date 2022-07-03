@@ -8,6 +8,7 @@
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
+
 Feel free to connect with me here:
 
 <p align="start">
@@ -44,6 +45,7 @@ Feel free to connect with me here:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Typescript](https://img.shields.io/badge/Typescript-27338e?style=for-the-badge&logo=Typescript&logoColor=white)
 ![AppScript](https://img.shields.io/badge/AppScript-27338e?style=for-the-badge&logo=googleAppScript&logoColor=white)
@@ -57,6 +59,7 @@ Feel free to connect with me here:
 ![Flutter](https://img.shields.io/badge/Flutter-87CEEB?style=for-the-badge&logo=Flutter&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-073042?style=for-the-badge&logo=Android&logoColor=3DDC84)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-ffa500?style=for-the-badge&logo=Tensorflow&logoColor=white)
