@@ -95,9 +95,10 @@ Feel free to connect with me here:
 
 <h3><b><samp>🧑🏻‍💻 Experiences : </samp></b></h3>
 
-- Flutter Development Intern @ Appyhigh Technology, Hyderabad (JAN 2022 - Present)<br>
-- Software Development Intern @ Sanskrut Corporation, Udaipur (JUN 2020 - DEC 2021)<br>
-- Mentor at Sanskrut Corporation, Udaipur<br>
+- SDE-1 (Flutter) @ Tickertape (Smallcase), Bengaluru (NOV 2022 - Present)<br>v
+- Ex-Flutter Development Intern @ Appyhigh Technology, Hyderabad (JAN 2022 - OCT 2022)<br>
+- Ex-Software Development Intern @ Sanskrut Corporation, Udaipur (JUN 2020 - DEC 2021)<br>
+- Ex-Mentor at Sanskrut Corporation, Udaipur<br>
 - Freelancer, build Whatsapp-Omegele Clone with Flutter, WEBRTC, SOCKET.io, NODE.js<br>
 - Hackathon project @ college, [Sound-Converge](https://github.com/cscipher/sound-converge)<br>
 - SIH project @ college with <b>Team Acute LogisticX</b> [Smart Monitoring Unit](https://github.com/cscipher/sih_tal)<br>
