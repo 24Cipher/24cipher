@@ -57,6 +57,7 @@ Feel free to connect with me here:
 ### 🧩 Libraries & Framework
 
 ![Flutter](https://img.shields.io/badge/Flutter-87CEEB?style=for-the-badge&logo=Flutter&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-EC5800?style=for-the-badge&logo=Swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-073042?style=for-the-badge&logo=Android&logoColor=3DDC84)
