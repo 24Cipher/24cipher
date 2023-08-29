@@ -2,7 +2,7 @@
 
 <a href=""><img src="/src/profile_banner.gif"></a> 
 
-* 📖 B.TECH CSE Final year student at Geetanjali Institute of Technical Studies, Udaipur 
+* 📱 Mobile App Developer
 
 * 🧑🏻‍💻 Computer Enthusiast & a geek!
 
