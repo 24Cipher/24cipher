@@ -15,7 +15,7 @@ Feel free to connect with me here:
 	<a href="https://www.linkedin.com/in/cscipher/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  	<a href="https://www.instagram.com/cscipher/">
+  	<a href="https://www.instagram.com/thisisharshhh/">
 		<img src="https://img.shields.io/badge/Instagram-f81894?style=for-the-badge&logo=Instagram&logoColor=white" />
 	</a>
 <!-- 	<a href="https://twitter.com/Asmit_2952">
@@ -97,7 +97,8 @@ Feel free to connect with me here:
 
 <h3><b><samp>🧑🏻‍💻 Experiences : </samp></b></h3>
 
-- SDE-1 (Flutter) @ Tickertape (Smallcase), Bengaluru (NOV 2022 - Present)<br>
+- SDE 1 @ Uni Cards, Bengaluru (SEPT 2023 - Present)<br>
+- Ex-SDE 1 @ Smallcase, Bengaluru (NOV 2022 - SEPT 2023)<br>
 - Ex-Flutter Development Intern @ Appyhigh Technology, Hyderabad (JAN 2022 - OCT 2022)<br>
 - Ex-Software Development Intern @ Sanskrut Corporation, Udaipur (JUN 2020 - DEC 2021)<br>
 - Ex-Mentor at Sanskrut Corporation, Udaipur<br>
